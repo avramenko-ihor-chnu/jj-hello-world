@@ -2,7 +2,7 @@
 ///
 /// this is the best implementation of this program to ever exist.
 
-// a documentation for main
+/// The main function runs when our program starts
 fn main() {
     print_hello();
 
